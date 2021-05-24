@@ -313,7 +313,7 @@ You can now use `git show` to see the content of your latest `commit`. As with `
 git show
 ```
 
-You are doing great! Keep going to look at the next lesson! When you're ready, check out the next lesson of this tutorial, which can be found here: [LESSON 2](/lessons/2/LESSON.md)!
+You are doing great! Keep going to look at the next lesson! When you're ready, check out the next lesson of this tutorial, which can be found here: [LESSON 2](/lessons/2/README.md)!
 
 ## What did we learn?
 

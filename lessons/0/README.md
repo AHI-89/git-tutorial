@@ -214,7 +214,7 @@ Output:
 
 You should now see the `.git` directory, which is all the assurance we need that we are now in a `git` repository! Woohoo!
 
-Congratulations on making it this far, you've succeeded in completing the preliminary steps in learning `git`! When you're ready, check out the next lesson of this tutorial, which can be found here: [LESSON 1](/lessons/1/LESSON.md)!
+Congratulations on making it this far, you've succeeded in completing the preliminary steps in learning `git`! When you're ready, check out the next lesson of this tutorial, which can be found here: [LESSON 1](/lessons/1/README.md)
 
 ## What did we learn?
 

@@ -11,7 +11,7 @@ The prerequisites for this tutorial are as follows:
     - If you are using MacOS, use Finder to search for Terminal.
     - If you are using a Linux operating system, most support `Ctrl-Alt-T` as a shortcut for opening the terminal.
 
-This tutorial will be divided into lessons, which are the directories of this project. You can view the first lesson here: [LESSON 0](/lessons/0/LESSON.md)!
+This tutorial will be divided into lessons, which are the directories of this project. You can view the first lesson here: [LESSON 0](/lessons/0/README.md)!
 
 [0]: https://linux.die.net/man/1/git
 [1]: https://en.wikipedia.org/wiki/Version_control
